@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49cddc8c-e4f4-4cbb-8063-fe9eafd34ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1dGbR1JY4efYCE4i9Ft3vtfKVLr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build todo-service">
+    <configuration name="go build todo-service" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="todo-service" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <envs>
+        <env name="MONGODB_URI" value="mongodb://120.0.0.1:27017" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="todo-service" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_ShouldFindAllTodos in todo-service/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="todo-service" />
+      <working_directory value="$PROJECT_DIR$/service" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="todo-service/service" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_ShouldFindAllTodos$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_ShouldUpdateTodoStatusAsCompleted in todo-service/handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="todo-service" />
+      <working_directory value="$PROJECT_DIR$/handler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="todo-service/handler" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_ShouldUpdateTodoStatusAsCompleted$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test todo-service/handler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="todo-service" />
+      <working_directory value="$PROJECT_DIR$/handler" />
+      <parameters value="MONGODB_URI=mongodb://127.0.0.1" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="todo-service/handler" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test todo-service/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="todo-service" />
+      <working_directory value="$PROJECT_DIR$/service" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="todo-service/service" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build todo-service" />
+      <item itemvalue="Go Test.go test todo-service/handler" />
+      <item itemvalue="Go Test.go test todo-service/service" />
+      <item itemvalue="Go Test.Test_ShouldFindAllTodos in todo-service/service" />
+      <item itemvalue="Go Test.Test_ShouldUpdateTodoStatusAsCompleted in todo-service/handler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build todo-service" />
+        <item itemvalue="Go Test.go test todo-service/handler" />
+        <item itemvalue="Go Test.Test_ShouldUpdateTodoStatusAsCompleted in todo-service/handler" />
+        <item itemvalue="Go Test.Test_ShouldFindAllTodos in todo-service/service" />
+        <item itemvalue="Go Test.go test todo-service/service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="192" key="#Go_Modules_(vgo)" timestamp="1592054387113">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" key="#Go_Modules_(vgo)/0.0.1680.1050@0.0.1680.1050" timestamp="1592054387113" />
+    <state x="135" y="316" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592831672624">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="135" y="316" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592831672624" />
+    <state x="514" y="367" width="764" height="573" key="#xdebugger.evaluate" timestamp="1592829081958">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="514" y="367" width="764" height="573" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1592829081958" />
+    <state width="779" height="466" key="DebuggerActiveHint" timestamp="1592830474169">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="779" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1592830474169" />
+    <state width="1638" height="316" key="GridCell.Tab.0.bottom" timestamp="1592831702339">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702339" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1592830979866" />
+    <state width="1638" height="316" key="GridCell.Tab.0.center" timestamp="1592831702336">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702336" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1592830979865" />
+    <state width="1638" height="316" key="GridCell.Tab.0.left" timestamp="1592831702335">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702335" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1592830979864" />
+    <state width="1638" height="316" key="GridCell.Tab.0.right" timestamp="1592831702338">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702338" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1592830979866" />
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1592831702341">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702341" />
+    <state width="1638" height="280" key="GridCell.Tab.1.bottom/0.23.1680.962@0.23.1680.962" timestamp="1592830979869" />
+    <state width="1638" height="316" key="GridCell.Tab.1.center" timestamp="1592831702340">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702340" />
+    <state width="1638" height="280" key="GridCell.Tab.1.center/0.23.1680.962@0.23.1680.962" timestamp="1592830979867" />
+    <state width="1638" height="316" key="GridCell.Tab.1.left" timestamp="1592831702340">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702340" />
+    <state width="1638" height="280" key="GridCell.Tab.1.left/0.23.1680.962@0.23.1680.962" timestamp="1592830979867" />
+    <state width="1638" height="316" key="GridCell.Tab.1.right" timestamp="1592831702341">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592831702341" />
+    <state width="1638" height="280" key="GridCell.Tab.1.right/0.23.1680.962@0.23.1680.962" timestamp="1592830979867" />
+    <state x="428" y="256" width="824" height="538" key="find.popup" timestamp="1592818986772">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="428" y="256" width="824" height="538" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592818986772" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1592828851464">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592828851464" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/mock_todo_repository.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>62</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>59</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>72</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>71</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>70</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>46</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>59</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>63</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>67</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>69</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>68</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>55</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>54</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/todo_handler.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/todo_service.go</url>
+          <line>70</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repository/todo_repository.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+services:
+  todo-db:
+    image: "mongo:3.6.0"
+    restart: "on-failure"
+    ports:
+      - "27017:27017"
+    container_name: "todo-db"
+#    volumes:
+#      - /docker/volume/todo-db/mongo:/data/db
+  todo-service:
+    image: "todo-service"
+    restart: "on-failure"
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    environment:
+      - MONGODB_URI=mongodb://todo-db:27017
+    container_name: "todo-service"
+    depends_on:
+      - todo-db
+version: "3.7"
